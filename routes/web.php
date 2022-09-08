@@ -21,3 +21,5 @@ Route::get('/', function () {
 Route::get('/my_page', 'MyPlaceController@index');
 
 Route::get('/posts', 'PostController@index');
+
+Route::get('/сategory', 'CategoryController@index');
