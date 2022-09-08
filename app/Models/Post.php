@@ -13,6 +13,7 @@ class Post extends Model
         'text',
         'description',
         'title',
+        'images',
     ];
 
 }
