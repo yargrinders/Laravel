@@ -10,6 +10,7 @@
 
 - [Laravel курс с нуля, 1-40 Уроков.](https://www.youtube.com/watch?v=_ucEVqSDXBg&list=PLd2_Os8Cj3t8pnG4ubQemoqnTwf0VFEtU&index=8).
 - [Laravel migrations, seeders, factories. Исчерпывающее руководство](https://www.youtube.com/watch?v=zhHmqyf1eFY).
+- [Laravel. Лучшая фишка - Resource Controllers - ВАЖНО ](https://www.youtube.com/watch?v=TpVUDmUyAFs&t=644s)
 
 
 ## Установка 
