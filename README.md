@@ -12,6 +12,10 @@
 - [Laravel migrations, seeders, factories. Исчерпывающее руководство](https://www.youtube.com/watch?v=zhHmqyf1eFY).
 - [Laravel. Лучшая фишка - Resource Controllers - ВАЖНО ](https://www.youtube.com/watch?v=TpVUDmUyAFs&t=644s)
 
+## Laravel 8 Russian Community
+
+- [Laravel 8.х Русская документация](https://laravel.su/docs/8.x/installation).
+
 
 ## Установка 
 
